@@ -1,0 +1,19 @@
+{
+  "name": "meo-bot-yuki",
+  "version": "1.0.0",
+  "description": "Meo Bot 🐱 - Discord Bot by Yuki",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "node-fetch": "^3.3.2",
+    "canvas": "^2.11.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

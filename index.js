@@ -12,7 +12,7 @@
 // - Repost file media trực tiếp nếu link trả về video/gif hợp lệ
 // - Chặn các host: YouTube / TikTok / BiliBili
 
-require("dotenv").config();
+
 
 const {
   Client,
